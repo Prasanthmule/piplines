@@ -35,7 +35,7 @@
 						<muleVersion>4.7.0</muleVersion>
 						<username>Polireddy123</username>
 						<password>Polireddy123@</password>
-						<applicationName>jenkinspiplines</applicationName>
+						<applicationName>jenkinspiplines11</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-1</region>
 						<workers>1</workers>
